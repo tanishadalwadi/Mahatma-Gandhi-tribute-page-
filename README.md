@@ -1,2 +1,2 @@
 # Mahatma-Gandhi-tribute-page-
-![alt text](
+![alt text](Tribute page/Screenshot (69).png
